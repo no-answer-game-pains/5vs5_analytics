@@ -133,3 +133,5 @@ chromedriver.*
 *.json
 
 idpw.txt
+
+*_userId.txt
