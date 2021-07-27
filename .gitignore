@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+chromedriver
+chromedriver.*
+*.json
+
+idpw.txt
